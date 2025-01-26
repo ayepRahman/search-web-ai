@@ -28,8 +28,8 @@ Before running the search agent, you need to:
 
 1. Clone this repository:
    ```bash
-   git clone [repository-url]
-   cd [repository-name]
+   git clone https://github.com/ayepRahman/search-web-ai
+   cd search-web-ai
    ```
 
 2. Create a virtual environment (recommended):
