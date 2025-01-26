@@ -78,3 +78,17 @@ Before running the search agent, you need to:
    - Search and process relevant information
    - Provide AI-generated responses
 
+## Example Usage
+
+```bash
+python search_agent.py
+```
+
+```bash
+You: What is the weather in Tokyo?
+```
+
+
+```
+Assistant: The weather in Tokyo is currently sunny with a temperature of 20°C.
+```
